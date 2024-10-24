@@ -1,8 +1,8 @@
 #Program 3 – Auto Insurance
 #Write a program that computes monthly insurance according to the provided schedule. 
 
-#Student #:     
-#Student Name:  
+#Student #:     499622
+#Student Name:  Jack Leonard
 
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
@@ -10,7 +10,7 @@ def main():
     #use age and gender (with the help of if statements) to calculate the percentage that will be used to aquire their insurance 
     #use my percentage i aquired with my calculation and the price of the car to calculate monthly insurance
     #Print result
-    
+
     invalidInputs = True     #Globals
     insurance = 0
 
